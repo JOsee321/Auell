@@ -1,3 +1,0 @@
-maaf = "gatau"
-
-print(maaf)
